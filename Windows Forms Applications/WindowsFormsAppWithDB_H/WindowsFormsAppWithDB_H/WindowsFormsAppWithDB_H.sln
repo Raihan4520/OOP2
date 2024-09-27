@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsAppWithDB_H", "WindowsFormsAppWithDB_H.csproj", "{9510F6F4-194B-4C1F-83F9-B0E147FDD1A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer_H", "..\DataAccessLayer_H\DataAccessLayer_H.csproj", "{E9646325-490A-4053-A44C-E9D47F67E2CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9510F6F4-194B-4C1F-83F9-B0E147FDD1A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9510F6F4-194B-4C1F-83F9-B0E147FDD1A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9510F6F4-194B-4C1F-83F9-B0E147FDD1A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9510F6F4-194B-4C1F-83F9-B0E147FDD1A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9646325-490A-4053-A44C-E9D47F67E2CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9646325-490A-4053-A44C-E9D47F67E2CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9646325-490A-4053-A44C-E9D47F67E2CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9646325-490A-4053-A44C-E9D47F67E2CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9445A642-BE79-4773-807E-5AE57CFBD7B6}
+	EndGlobalSection
+EndGlobal

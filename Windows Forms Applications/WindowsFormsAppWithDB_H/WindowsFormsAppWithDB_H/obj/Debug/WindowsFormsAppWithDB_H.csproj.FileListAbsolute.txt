@@ -1,0 +1,13 @@
+C:\Users\Raihan\Source\Repos\WindowsFormsAppWithDB_H\bin\Debug\WindowsFormsAppWithDB_H.exe.config
+C:\Users\Raihan\Source\Repos\WindowsFormsAppWithDB_H\bin\Debug\WindowsFormsAppWithDB_H.exe
+C:\Users\Raihan\Source\Repos\WindowsFormsAppWithDB_H\bin\Debug\WindowsFormsAppWithDB_H.pdb
+C:\Users\Raihan\Source\Repos\WindowsFormsAppWithDB_H\bin\Debug\DataAccessLayer_H.dll
+C:\Users\Raihan\Source\Repos\WindowsFormsAppWithDB_H\bin\Debug\DataAccessLayer_H.pdb
+C:\Users\Raihan\Source\Repos\WindowsFormsAppWithDB_H\obj\Debug\WindowsFormsAppWithDB_H.csproj.AssemblyReference.cache
+C:\Users\Raihan\Source\Repos\WindowsFormsAppWithDB_H\obj\Debug\WindowsFormsAppWithDB_H.DBTestForm.resources
+C:\Users\Raihan\Source\Repos\WindowsFormsAppWithDB_H\obj\Debug\WindowsFormsAppWithDB_H.Properties.Resources.resources
+C:\Users\Raihan\Source\Repos\WindowsFormsAppWithDB_H\obj\Debug\WindowsFormsAppWithDB_H.csproj.GenerateResource.cache
+C:\Users\Raihan\Source\Repos\WindowsFormsAppWithDB_H\obj\Debug\WindowsFormsAppWithDB_H.csproj.CoreCompileInputs.cache
+C:\Users\Raihan\Source\Repos\WindowsFormsAppWithDB_H\obj\Debug\WindowsFormsAppWithDB_H.csproj.CopyComplete
+C:\Users\Raihan\Source\Repos\WindowsFormsAppWithDB_H\obj\Debug\WindowsFormsAppWithDB_H.exe
+C:\Users\Raihan\Source\Repos\WindowsFormsAppWithDB_H\obj\Debug\WindowsFormsAppWithDB_H.pdb
