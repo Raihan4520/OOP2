@@ -64,7 +64,27 @@ Make sure you have the correct version of .NET Framework installed, typically .N
 ## Screenshots
 
 ### Airway Ticketing System
-Add screenshots of your application here to showcase the interface and features.
+
+<details>
+  <summary>Login Page</summary>
+   
+![Login](./Final%20Project/Screenshots/Login.jpg)
+
+</details>
+
+<details>
+  <summary>Signup Page</summary>
+   
+![Login](./Final%20Project/Screenshots/Signup.jpg)
+
+</details>
+
+<details>
+  <summary>User Home Page</summary>
+   
+![Login](./Final%20Project/Screenshots/User%20Home.jpg)
+
+</details>
 
 ## Contact
 
