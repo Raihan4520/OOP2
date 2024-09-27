@@ -1,0 +1,12 @@
+C:\Users\Raihan\Source\Repos\DAL_AirwayTicketing\obj\Debug\DAL_AirwayTicketing.csproj.AssemblyReference.cache
+C:\Users\Raihan\Source\Repos\DAL_AirwayTicketing\obj\Debug\DAL_AirwayTicketing.csproj.CoreCompileInputs.cache
+C:\Users\Raihan\Source\Repos\DAL_AirwayTicketing\bin\Debug\DAL_AirwayTicketing.dll
+C:\Users\Raihan\Source\Repos\DAL_AirwayTicketing\bin\Debug\DAL_AirwayTicketing.pdb
+C:\Users\Raihan\Source\Repos\DAL_AirwayTicketing\obj\Debug\DAL_AirwayTicketing.dll
+C:\Users\Raihan\Source\Repos\DAL_AirwayTicketing\obj\Debug\DAL_AirwayTicketing.pdb
+C:\Users\DELL\source\repos\DAL_AirwayTicketing\obj\Debug\DAL_AirwayTicketing.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\DAL_AirwayTicketing\obj\Debug\DAL_AirwayTicketing.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\DAL_AirwayTicketing\obj\Debug\DAL_AirwayTicketing.dll
+C:\Users\DELL\source\repos\DAL_AirwayTicketing\obj\Debug\DAL_AirwayTicketing.pdb
+C:\Users\DELL\source\repos\DAL_AirwayTicketing\bin\Debug\DAL_AirwayTicketing.dll
+C:\Users\DELL\source\repos\DAL_AirwayTicketing\bin\Debug\DAL_AirwayTicketing.pdb
