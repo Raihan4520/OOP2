@@ -1,6 +1,6 @@
 # Object-Oriented Programming 2 (C#) Projects
 
-Welcome to the repository for my Object-Oriented Programming 2 (OOP2) course at American International University - Bangladesh (AIUB). This repository contains a series of Windows Forms applications developed using C# and applying key OOP concepts. The final project is an **Airway Ticketing System**, which demonstrates a combination of advanced OOP principles and GUI-based application development.
+Welcome to the repository for my **Object-Oriented Programming 2 (OOP2)** course at **American International University - Bangladesh (AIUB)**. This repository contains a series of Windows Forms applications developed using C# and applying key OOP concepts. The final project is an **Airway Ticketing System**, which demonstrates a combination of advanced OOP principles and GUI-based application development.
 
 ## Table of Contents
 - [Overview](#overview)
