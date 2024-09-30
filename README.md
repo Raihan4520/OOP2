@@ -58,7 +58,7 @@ To run any of the projects in this repository, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Raihan4520/OOP2.git
+   https://github.com/Raihan4520/OOP2-CSharp.git
 2. Open the solution in Visual Studio.
 3. Build the project by navigating to: **Build > Build Solution**
 4. Run the project by clicking the "Start" button or pressing F5.
